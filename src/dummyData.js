@@ -49,6 +49,22 @@ export const userData = [
   },
 ];
 
+export const productData = [
+  {
+    name: 'Jan',
+    'Sales': 9000,
+  },
+  {
+    name: 'Feb',
+    'Sales': 7000,
+  },
+  {
+    name: 'Mar',
+    'Sales': 15000,
+  },
+ 
+];
+
 
 export const userRows = [
   {
@@ -140,5 +156,99 @@ export const userRows = [
     email: 'jon@gmail.com',
     status: 'active',
     transaction: '₹2120.00',
+  },
+];
+
+
+export const productRows = [
+  {
+    id: 1,
+    name: 'iphone',
+    img:
+      'https://images.pexels.com/photos/8066715/pexels-photo-8066715.png?cs=srgb&dl=pexels-mediamodifier-8066715.jpg&fm=jpg',
+    stock: 'jon@gmail.com',
+    status: 'active',
+    price: '₹120000.00',
+  },
+  {
+    id: 2,
+    name: 'iphone',
+    img:
+      'https://images.pexels.com/photos/8066715/pexels-photo-8066715.png?cs=srgb&dl=pexels-mediamodifier-8066715.jpg&fm=jpg',
+    stock: 'jon@gmail.com',
+    status: 'active',
+    price: '₹120000.00',
+  },
+  {
+    id: 3,
+    name: 'iphone',
+    img:
+      'https://images.pexels.com/photos/8066715/pexels-photo-8066715.png?cs=srgb&dl=pexels-mediamodifier-8066715.jpg&fm=jpg',
+    stock: 'jon@gmail.com',
+    status: 'active',
+    price: '₹120000.00',
+  },
+  {
+    id: 4,
+    name: 'iphone',
+    img:
+      'https://images.pexels.com/photos/8066715/pexels-photo-8066715.png?cs=srgb&dl=pexels-mediamodifier-8066715.jpg&fm=jpg',
+    stock: 'jon@gmail.com',
+    status: 'active',
+    price: '₹120000.00',
+  },
+  {
+    id: 5,
+    name: 'iphone',
+    img:
+      'https://images.pexels.com/photos/8066715/pexels-photo-8066715.png?cs=srgb&dl=pexels-mediamodifier-8066715.jpg&fm=jpg',
+    stock: 'jon@gmail.com',
+    status: 'active',
+    price: '₹120000.00',
+  },
+  {
+    id: 6,
+    name: 'iphone',
+    img:
+      'https://images.pexels.com/photos/8066715/pexels-photo-8066715.png?cs=srgb&dl=pexels-mediamodifier-8066715.jpg&fm=jpg',
+    stock: 'jon@gmail.com',
+    status: 'active',
+    price: '₹120000.00',
+  },
+  {
+    id: 7,
+    name: 'iphone',
+    img:
+      'https://images.pexels.com/photos/8066715/pexels-photo-8066715.png?cs=srgb&dl=pexels-mediamodifier-8066715.jpg&fm=jpg',
+    stock: 'jon@gmail.com',
+    status: 'active',
+    price: '₹120000.00',
+  },
+  {
+    id: 8,
+    name: 'iphone',
+    img:
+      'https://images.pexels.com/photos/8066715/pexels-photo-8066715.png?cs=srgb&dl=pexels-mediamodifier-8066715.jpg&fm=jpg',
+    stock: 'jon@gmail.com',
+    status: 'active',
+    price: '₹120000.00',
+  },
+  {
+    id: 9,
+    name: 'iphone',
+    img:
+      'https://images.pexels.com/photos/8066715/pexels-photo-8066715.png?cs=srgb&dl=pexels-mediamodifier-8066715.jpg&fm=jpg',
+    stock: 'jon@gmail.com',
+    status: 'active',
+    price: '₹120000.00',
+  },
+  {
+    id: 10,
+    name: 'iphone',
+    img:
+      'https://images.pexels.com/photos/8066715/pexels-photo-8066715.png?cs=srgb&dl=pexels-mediamodifier-8066715.jpg&fm=jpg',
+    stock: 'jon@gmail.com',
+    status: 'active',
+    price: '₹120000.00',
   },
 ];
